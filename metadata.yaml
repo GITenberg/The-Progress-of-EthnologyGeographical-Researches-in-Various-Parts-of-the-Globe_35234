@@ -1,0 +1,31 @@
+_repo: The-Progress-of-EthnologyGeographical-Researches-in-Various-Parts-of-the-Globe_35234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartlett, John Russell
+    alias: Bartlett, John R. (John Russell)
+    birthdate: 1805
+    deathdate: 1886
+    gutenberg_agent_id: '37548'
+    url: http://www.gutenberg.org/2009/agents/37548
+    wikipedia: http://en.wikipedia.org/wiki/John_Russell_Bartlett
+description: ''
+gutenberg_issued: '2011-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Ethnology -- History'
+- !lcsh 'Anthropology -- History'
+title: "The Progress of Ethnology\r\nAn Account of Recent Archaeological, Philological\
+  \ and Geographical Researches in Various Parts of the Globe, Tending to Elucidate\
+  \ the Physical History of Man"
+url: http://www.gutenberg.org/ebooks/35234
